@@ -61,6 +61,7 @@ Title: Understanding the World Through Action
 ['Machine Learning (cs.LG)']
 https://arxiv.org/abs/2110.12543
 ```
+![image](https://user-images.githubusercontent.com/37578514/139064190-243aa32e-0c46-45d2-a574-466aed4773ee.png)
 
 ## Acknowledgement
 
